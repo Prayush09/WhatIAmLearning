@@ -6,3 +6,6 @@
 
 #STUN
 - https://en.wikipedia.org/wiki/STUN
+
+#SSH
+- https://www.youtube.com/watch?v=v45p_kJV9i4
