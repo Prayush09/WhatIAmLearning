@@ -4,8 +4,8 @@
 # Web Dev
 - https://www.youtube.com/watch?v=M9O5AjEFzKw&t=546s&ab_channel=HuXnWebDev
 
-#STUN
+# STUN
 - https://en.wikipedia.org/wiki/STUN
 
-#SSH
+# SSH
 - https://www.youtube.com/watch?v=v45p_kJV9i4
